@@ -38,7 +38,7 @@
 ![留存热力图](./retention.png)
 
 ### Tableau 交互仪表板
-![Tableau 仪表板截图](./日货趋势图.png)
+![Tableau 仪表板截图](./日活趋势图.png)
 ![Tableau 仪表板截图](./漏斗图.png)
 
 ## 数据来源
