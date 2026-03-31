@@ -30,6 +30,11 @@
 - Python 依赖：pandas, matplotlib, seaborn
 - 如需重新处理，修改脚本中的文件路径后运行即可。
 - Hive 环境需预先部署（本机或虚拟机）。
+  
+## 可视化成果
+![转化漏斗图](./funnel.png)
+![留存热力图](./retention.png)
+![Tableau 仪表板](./日货趋势图+漏斗图.png)
 
 ## 数据来源
 [阿里天池 UserBehavior 数据集](https://tianchi.aliyun.com/dataset/649)
